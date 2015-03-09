@@ -24,5 +24,19 @@ namespace Calculator
         {
             InitializeComponent();
         }
+
+        private void Number_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void operator_Clicked(object sender, RoutedEventArgs e)
+        {
+            _Op.Str
+        }
+
+
+
+
     }
 }
